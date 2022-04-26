@@ -1,0 +1,1 @@
+C:/wamp64/www/lyceeCousteau/wp-content/plugins/query-monitor/wp-content/db.php

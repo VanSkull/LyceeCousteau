@@ -1,0 +1,2 @@
+<?php
+// Début filters
